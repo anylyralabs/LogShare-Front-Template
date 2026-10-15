@@ -31,7 +31,7 @@ export const siteConfig: SiteConfig = {
   url: 'https://example.com',
   logoText: 'LogShare Front',
   beian: '萌ICP备20260001号',
-  github: 'https://github.com/NingZeStudio',
+  github: 'https://github.com/anylyralabs',
   qqGroup: 'https://qm.qq.com/',
   contactEmail: 'contact@example.com',
   navLinks: [
@@ -42,6 +42,6 @@ export const siteConfig: SiteConfig = {
   friendLinks: [
     { name: 'LogShare.CN', url: 'https://logshare.cn', desc: 'Minecraft 日志分享与分析平台' },
     { name: '柠泽资源站', url: 'https://miawa.cn', desc: 'Minecraft 启动器镜像分发平台' },
-    { name: 'NingZe Studio', url: 'https://github.com/NingZeStudio', desc: '柠泽工作室开源矩阵' }
+    { name: 'AnyLyraLabs', url: 'https://github.com/anylyralabs', desc: 'AnyLyraLabs 开源矩阵' }
   ]
 }

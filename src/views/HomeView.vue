@@ -69,7 +69,7 @@ const features = [
           浏览范式展台
           <ArrowRight weight="duotone" class="h-4 w-4" />
         </AppButton>
-        <AppButton as="a" href="https://github.com/NingZeStudio" variant="outline" size="lg">
+        <AppButton as="a" href="https://github.com/anylyralabs" variant="outline" size="lg">
           <FileCode weight="duotone" class="h-4 w-4" />
           GitHub 仓库
         </AppButton>
